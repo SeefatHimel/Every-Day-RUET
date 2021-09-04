@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Every Day RUET</string>
+
+    <string-array name="dayList">
+        <item>Select Day</item>
+        <item>A Day</item>
+        <item>B Day</item>
+        <item>C Day</item>
+        <item>D Day</item>
+        <item>E Day</item>
+    </string-array>
+
+
+    <string-array name="dayList2">
+        <item>A Day</item>
+        <item>B Day</item>
+        <item>C Day</item>
+        <item>D Day</item>
+        <item>E Day</item>
+    </string-array>
+
+    <string name="BDay">B Day</string>
+    <string name="CDay">C Day</string>
+    <string name="DDay">D Day</string>
+    <string name="EDay">E Day</string>
+    <string name="ADay">A Day</string>
+    <string name="HINT">No Class</string>
+
+
+    <string name="FirstPeriod">8:00am-8:50am</string>
+    <string name="SecondPeriod">8:50am-9:40am</string>
+    <string name="ThirdPeriod">9:40am-10:30am</string>
+    <string name="FourthPeriod">10:50am-11:40am</string>
+    <string name="FifthPeriod">11:40am-12:30pm</string>
+    <string name="SixthPeriod">12:30pm-1:20pm</string>
+    <string name="SeventhPeriod">2:30pm-3:20pm</string>
+    <string name="EighthPeriod">3:20pm-4:10pm</string>
+    <string name="NinthPeriod">4:10pm-5:00pm</string>
+
+    <string name="AddRutine">Add to Routine</string>
+
+
+</resources>
